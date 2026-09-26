@@ -12,7 +12,7 @@ SFM-2.1-Hardware-Integration
 
 ​I am mapping your SFM 2.1 boundary conditions directly onto the h-BN/DLC capillary tube. Before we introduce the 404 GHz standing wave to test the "metric capability" of this geometry, I need your exact mathematical tolerances.
 
-​If the macroscopic plasma breaches the thermodynamic saturation limit of 10^22 J/m³, at what specific energy density does your model predict the "boundary" will structurally fail to maintain "admissibility"?
+​If the macroscopic plasma breaches the thermodynamic saturation limit of 10²² J/m³, at what specific energy density does your model predict the "boundary" will structurally fail to maintain "admissibility"?
 
 I need the precise threshold where your mathematical constraint gives way to catastrophic physical shear.
 
